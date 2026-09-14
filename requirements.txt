@@ -1,0 +1,5 @@
+skore
+pandas
+scikit-learn
+jupytext
+ipywidgets
